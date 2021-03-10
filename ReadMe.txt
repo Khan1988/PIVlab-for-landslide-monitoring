@@ -1,5 +1,5 @@
-# PIVlab for slope movement monitoring
-This is a modified version of PIVlab. For the original PIVlab please follow the link.
+# PIVlab for landslide/slope monitoring
+This is a modified version of PIVlab. For the original version please follow the link.
 (https://github.com/Shrediquette/PIVlab)
 
 
